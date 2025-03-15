@@ -1,5 +1,5 @@
 """
-This library provides formulas for Step 2
+This library provides formulas for Step 3
 """
 __author__ = "Weiqi Liu"
 __copyright__ = "Copyright (C) 2024 Weiqi Liu"
