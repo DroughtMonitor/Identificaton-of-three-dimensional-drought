@@ -1,3 +1,13 @@
+"""
+This library provides formulas for Step 2
+"""
+__author__ = "Weiqi Liu"
+__copyright__ = "Copyright (C) 2024 Weiqi Liu"
+__license__ = "NIEER"
+__version__ = "2025.03"
+__Reference paper__ == "The Evaluation of the Suitability of Potential Evapotranspiration Models for Drought Monitoring based on Observed Pan Evaporation and Potential Evapotranspiration from Eddy Covariance"
+
+
 import numpy as np
 import xarray as xa
 from scipy import ndimage
