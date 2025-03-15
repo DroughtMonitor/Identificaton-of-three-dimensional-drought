@@ -2,7 +2,7 @@
 The three-dimensional clustering method conceptualizes drought events as a spatial-temporal continuum,  
 allowing for the effective identification of long-term drought characteristics change  
 
-__author__ = "Weiqi Liu"  
+__author__ = "Weiqi Liu(刘伟琦)"  
 __copyright__ = "Copyright (C) 2024 Weiqi Liu"  
 __license__ = "NIEER"  
 __version__ = "2025.03"  
